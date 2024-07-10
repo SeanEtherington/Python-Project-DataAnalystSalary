@@ -1,6 +1,6 @@
 # Overview
 
-Welcome to my analysis of the data job market, which focused on data analyst roles. This project was created out of a desire to better navigate and understand the job market more effectively. Specifically, I looked into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
+Welcome to my analysis of the data job market, which focused on primarily on data analyst roles but also Data Engineer and Senior Data Engineer positions. This project was created out of a desire to better navigate and understand the job market more effectively. Specifically, I looked into the top-paying and in-demand skills to help find optimal job opportunities for data analysts.
 
 The data was sourced from Luke Barousse's Python course, which provided a foundation for my analysis and contained information on job titles, salaries, locations, and essential skills. Through a series of Python scripts, I explored key questions such as the most in-demand job skills, salary trends, and the relationship between demand and salary in data analytics.
 
